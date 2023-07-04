@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeandiegof
 - 👀 I’m interested in systems programming, performance, embedded systems and tests :) 
-- 🌱 I’m currently learning Rust and writing a BitTorrent client. 
-- 💞️ I’m looking to collaborate on any projects related to my interests :D
+- 🌱 I’m currently learning Qt6 
+- 💞️ I’m looking to collaborate on any projects related to operating systems or systems programming in general
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/jeanfontena/).
 
 <!---
